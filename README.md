@@ -22,11 +22,11 @@ PhD · Remote Sensing Time Series · Toulouse, France.
 
 ## Open Source
 
-[![Dzetsaka](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=QGIS-Dzetsaka-Plugin&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/QGIS-Dzetsaka-Plugin)
+[![Dzetsaka](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=dzetsaka&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/dzetsaka)
 [![MuseoToolBox](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=MuseoToolBox&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/MuseoToolBox)
 
 [![QGIS MCP](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=qgis-mcp&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/qgis-mcp)
-[![EarthDaily SDK](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=earthdaily-python-sdk&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/earthdaily-python-sdk)
+[![EarthDaily Python Client](https://github-readme-stats.vercel.app/api/pin/?username=earthdaily&repo=earthdaily-python-client&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/earthdaily/earthdaily-python-client)
 
 ---
 
