@@ -43,7 +43,9 @@ PhD · Remote Sensing Time Series · Toulouse, France.
 ---
 
 <div align="center">
-  <a href="https://nkarasiak.github.io/"><img src="https://img.shields.io/badge/any-21262d?style=flat-square&logo=githubpages&logoColor=c9d1d9&label=" alt="CV" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nicolas-karasiak/"><img src="https://img.shields.io/badge/any-21262d?style=flat-square&logo=linkedin&logoColor=c9d1d9&label=" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:karasiak.nicolas@gmail.com"><img src="https://img.shields.io/badge/any-21262d?style=flat-square&logo=gmail&logoColor=c9d1d9&label=" alt="Email" /></a>
+
+[![cv](https://img.shields.io/badge/cv-21262d)](https://nkarasiak.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-21262d)](https://www.linkedin.com/in/nicolas-karasiak/)
+[![email](https://img.shields.io/badge/email-21262d)](mailto:karasiak.nicolas@gmail.com)
+
 </div>
