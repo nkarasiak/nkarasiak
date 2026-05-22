@@ -9,7 +9,7 @@
 ██ ▀█▄ ██  ██ ██   ██ ██  ██ █████▀ ██ ██  ██ ██ ▀█▄ 
 </code></pre>
 
-[![Terminal](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&cursorStyle=block&deletionBehavior=stay&width=660&height=210&fontSize=14&lines=%5B%7B%22text%22%3A%22%24+ssh+nkarasiak%40earth-observation.space%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22%5Cn%5CnWelcome+back.+Systems+operational.%5Cn%22%2C%22color%22%3A%22%236e7681%22%2C%22typingSpeed%22%3A0.03%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Senior+Geospatial+ML+Engineer%22%2C%22color%22%3A%22%23c9d1d9%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+10M%2B+parcels+%C2%B7+100x+cost+reduction%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+600%2B+citations+%C2%B7+200k%2B+downloads%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Python+%C2%B7+R+%C2%B7+Rust%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5Cn%24+%E2%96%8C%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.1%7D%5D)](https://nkarasiak.github.io/cv)
+![Terminal](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&cursorStyle=block&deletionBehavior=stay&width=660&height=210&fontSize=14&lines=%5B%7B%22text%22%3A%22%24+ssh+nkarasiak%40earth-observation.space%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22%5Cn%5CnWelcome+back.+Systems+operational.%5Cn%22%2C%22color%22%3A%22%236e7681%22%2C%22typingSpeed%22%3A0.03%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Senior+Geospatial+ML+Engineer%22%2C%22color%22%3A%22%23c9d1d9%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+10M%2B+parcels+%C2%B7+100x+cost+reduction%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+600%2B+citations+%C2%B7+200k%2B+downloads%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Python+%C2%B7+R+%C2%B7+Rust%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5Cn%24+%E2%96%8C%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.1%7D%5D)
 
 </div>
 
@@ -44,7 +44,7 @@ PhD · Remote Sensing Time Series · Toulouse, France.
 ---
 
 <div align="center">
-  <a href="https://nkarasiak.github.io/cv"><img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=githubpages&logoColor=8b949e" /></a>&nbsp;&nbsp;
+  <a href="https://nkarasiak.github.io/"><img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=githubpages&logoColor=8b949e" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nicolas-karasiak/"><img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=linkedin&logoColor=8b949e" /></a>&nbsp;&nbsp;
   <a href="mailto:karasiak.nicolas@gmail.com"><img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=gmail&logoColor=8b949e" /></a>
 </div>
