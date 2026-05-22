@@ -9,7 +9,7 @@
 ██ ▀█▄ ██  ██ ██   ██ ██  ██ █████▀ ██ ██  ██ ██ ▀█▄ 
 </code></pre>
 
-[![Terminal](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&cursorStyle=block&deletionBehavior=stay&width=660&lines=%5B%7B%22text%22%3A%22%24+ssh+nkarasiak%40earth-observation.space%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22%5Cn%5CnWelcome+back.+Systems+operational.%5Cn%22%2C%22color%22%3A%22%23555555%22%2C%22typingSpeed%22%3A0.03%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Senior+Geospatial+ML+Engineer%22%2C%22color%22%3A%22%23d0d0d0%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+10M%2B+parcels+%C2%B7+100x+cost+reduction%22%2C%22color%22%3A%22%23a0a0a0%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+600%2B+citations+%C2%B7+200k%2B+downloads%22%2C%22color%22%3A%22%23a0a0a0%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Python+%C2%B7+R+%C2%B7+Rust%22%2C%22color%22%3A%22%23a0a0a0%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5Cn%24+%E2%96%8C%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.1%7D%5D)](https://nkarasiak.github.io/cv)
+[![Terminal](https://typingsvg.vercel.app/api/svg?backgroundColor=%230d1117&backgroundOpacity=1&cursorStyle=block&deletionBehavior=stay&width=660&height=210&fontSize=14&lines=%5B%7B%22text%22%3A%22%24+ssh+nkarasiak%40earth-observation.space%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22%5Cn%5CnWelcome+back.+Systems+operational.%5Cn%22%2C%22color%22%3A%22%23484f58%22%2C%22typingSpeed%22%3A0.03%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Senior+Geospatial+ML+Engineer%22%2C%22color%22%3A%22%23e6edf3%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+10M%2B+parcels+%C2%B7+100x+cost+reduction%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+600%2B+citations+%C2%B7+200k%2B+downloads%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5BOK%5D+Python+%C2%B7+R+%C2%B7+Rust%22%2C%22color%22%3A%22%238b949e%22%2C%22typingSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22%5Cn%5Cn%24+%E2%96%8C%22%2C%22color%22%3A%22%23666666%22%2C%22typingSpeed%22%3A0.1%7D%5D)](https://nkarasiak.github.io/cv)
 
 </div>
 
@@ -32,11 +32,11 @@ PhD · Remote Sensing Time Series · Toulouse, France.
 
 ## Open Source
 
-[![Dzetsaka](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=QGIS-Dzetsaka-Plugin&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d0d0d0&text_color=888888)](https://github.com/nkarasiak/QGIS-Dzetsaka-Plugin)
-[![MuseoToolBox](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=MuseoToolBox&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d0d0d0&text_color=888888)](https://github.com/nkarasiak/MuseoToolBox)
+[![Dzetsaka](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=QGIS-Dzetsaka-Plugin&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/QGIS-Dzetsaka-Plugin)
+[![MuseoToolBox](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=MuseoToolBox&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/MuseoToolBox)
 
-[![QGIS MCP](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=qgis-mcp&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d0d0d0&text_color=888888)](https://github.com/nkarasiak/qgis-mcp)
-[![EarthDaily SDK](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=earthdaily-python-sdk&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d0d0d0&text_color=888888)](https://github.com/nkarasiak/earthdaily-python-sdk)
+[![QGIS MCP](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=qgis-mcp&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/qgis-mcp)
+[![EarthDaily SDK](https://github-readme-stats.vercel.app/api/pin/?username=nkarasiak&repo=earthdaily-python-sdk&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/nkarasiak/earthdaily-python-sdk)
 
 ---
 
@@ -50,16 +50,6 @@ PhD · Remote Sensing Time Series · Toulouse, France.
 ![AWS](https://img.shields.io/badge/AWS-0c0c0c?style=flat-square&logo=amazonaws&logoColor=a0a0a0)
 ![Docker](https://img.shields.io/badge/Docker-0c0c0c?style=flat-square&logo=docker&logoColor=a0a0a0)
 ![GDAL](https://img.shields.io/badge/GDAL-0c0c0c?style=flat-square&logo=qgis&logoColor=a0a0a0)
-
----
-
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkarasiak/nkarasiak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkarasiak/nkarasiak/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nkarasiak/nkarasiak/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ---
 
